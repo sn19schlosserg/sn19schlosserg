@@ -1,0 +1,15 @@
+#MenuHolder{
+	width: 750px;
+	height:60px;
+	margin-top:21px;
+	margin-left:auto;
+	margin-right:auto;
+	}
+ nav ul li{
+	 background-color:#666
+ }
+ nav ul li:Hover{
+	 background-color:#000
+ }
+
+

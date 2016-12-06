@@ -1,0 +1,21 @@
+#MenuHolder ul{
+	margin:0;
+	padding:0;
+}
+#MenuHolder ul li{
+	list-style-type:none;
+	float:left;
+	display:block;
+	width:150px;
+	height:60px;
+	text-align:center;
+	line-hight:55px;
+	font-family:"Times New Roman", Times, serif;
+	font-size:17px;
+	position:relative
+}
+#MenuHolder ul li a {
+	text-decoration:none;
+	color:#FFF
+}
+
